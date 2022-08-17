@@ -15,6 +15,7 @@ Performance Measurement: Root Mean Squared Logarithmic Error
 ```math
 SE = \frac{\sigma}{\sqrt{n}}
 ```
+$`\sqrt{2}`$.
 
 ### Action
 
