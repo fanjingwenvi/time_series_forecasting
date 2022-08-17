@@ -12,6 +12,9 @@ Performance Measurement: Root Mean Squared Logarithmic Error
     (log(\widehat{y}_{i}+1)-log(y_{i}+1))^2
 }
 ````
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 ### Action
 
